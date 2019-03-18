@@ -7,11 +7,11 @@ First line is generated caption, second line is the actual caption given in the 
 
 Not very sophisticated, as you can see, but picks up vague details
 
-![](https://www.dropbox.com/s/mfu3kkg1jke0b9q/capshun11.jpeg?dl=1)
+![](https://github.com/Anmol6/capshun/blob/master/capshun11.jpeg)
 
 inb4 LSTM
 
-![](https://www.dropbox.com/s/kz1t7oy0h85noq4/capshun2.jpeg?dl=1)
+![](https://github.com/Anmol6/capshun/blob/master/capshun2%20(1).jpeg)
 
 
 
